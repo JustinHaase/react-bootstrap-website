@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.dropdown-menu {
+  position: absolute;
+  transform: translate3d(111px, 0px, 0px);
+  top: 0px;
+  left: 0px;
+  will-change: transform;
+}
